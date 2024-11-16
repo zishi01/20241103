@@ -27,7 +27,19 @@
 
 {"key": "4K在线看","name":"《测试🔹4K源》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://7337.kstore.space/tw/lib/4kav.json"},
 {"key":"csp_Wwys","name":"《子时🔹蓝光》","type":3,"playerType":1,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar": "./lib/1007.jar"},
-
+ {
+      "key": "天天弹幕版",
+      "name": "《子时3🔹弹幕》",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
     {
       "key": "csp_JPYY",
       "name": "《金牌🔹秒播》",
