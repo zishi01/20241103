@@ -7,7 +7,7 @@
     {
       "name": "闲鱼子时软件",
       "type": 0,
-      "url": "https://7337.kstore.space/tw/lib/自用勿传",
+      "url": "http://rihou.cc:555/gggg.nzk/",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -25,8 +25,8 @@
     },
 
 
-{"key": "4K在线看","name":"《测试🔹4K源》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://7337.kstore.space/tw/lib/4kav.json"},
-{"key":"csp_Wwys","name":"《子时🔹蓝光》","type":3,"playerType":1,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar": "./lib/1007.jar"},
+{"key": "4K在线看","name":"《测试🔹4K源》","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/4kav.json"},
+{"key":"csp_Wwys","name":"《子时🔹蓝光》","type":3,"playerType":1,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar":"./lib/1007.jar"},
  {
       "key": "天天弹幕版",
       "name": "《子时3🔹弹幕》",
@@ -47,13 +47,14 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Jpyy",
-      "jar": "https://7337.kstore.space/jar/1020.jar",
+      "jar": "./lib/1020.jar",
       "playerType": 1,
       "filterable": 1,
       "ext": ""
     },
-	 {"key":"热播影视","name":"《子时2🔹蓝光》","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--qrrq-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;657532cb4981ce32603e945774c1ac81"}, 
+	 {"key":"热播影视","name":"《子时2🔹蓝光》","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--qrrq-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;657532cb4981ce32603e945774c1ac81"},
      {"key": "Qxys","name": "《备用3🔹官源》","type": 3,"api": "csp_XBPQ"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=qxys"},
+     {"key":"魔都资源","name":"《子时4🔹蓝光》","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--qrrq-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428"},
     
 {"key":"瓜子","name":"《瓜子🔹秒播》","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/瓜子.js"},
 {"key": "瓜子","name": "瓜子┃APP","type": 3,"api": "csp_Gz360", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729664575333/1023.jar;md5;5dbe8aa46395c6f5f978c05904ba1074","searchable": 0,"quickSearch": 1,"filterable": 1, "order_num": 0,"changeable": 0 },
